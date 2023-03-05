@@ -1,0 +1,132 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{ 
+    height: 100%;
+    width: 100%;
+}
+.main{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+#a {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
+#a .navbar{
+    width: 100%;
+    height: 75px;
+    position: fixed;
+    border-bottom: 2px solid rgb(163, 163, 163);
+}
+#a .header{
+    position: absolute;
+    color: orange;
+    font-size: 1.5em;
+    top: 9%;
+    left: 12%;
+}
+#a .header span{
+    font-size: 1.5em;
+    font-weight: 900;
+}
+#a .header h6{
+    font-weight: 200;
+}
+#a .header1{
+    width:26%;
+    height: 75px;
+    position: absolute;
+    left:26%
+}
+.header1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.696);
+    font-size: 18px;
+}
+.header1 h4{
+    font-weight: 200
+}
+.header1 span h4{
+    color: black;
+    font-weight: 900;
+    border-bottom: 2px solid orange;
+}
+#a .header2{
+    width:12%;
+    height: 75px;
+    /* background-color: black; */
+    position: absolute;
+    right: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#b {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(56, 161, 89);
+}
+#c{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(70, 12, 12);
+}
+#d{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(23, 12, 70);
+}
