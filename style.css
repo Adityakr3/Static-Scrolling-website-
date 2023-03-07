@@ -250,3 +250,78 @@ html,body{
     color: rgba(255, 255, 255, 0.906);
     cursor: pointer;
 }
+.footer{
+    width: 20%;
+    height: 265px;
+    position: absolute;
+    bottom: 5%;
+    /* background-color: black; */
+    left:8%;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    padding: 12px;
+}
+.footer h1{
+    position: relative;
+    top: 0%;
+}
+.footer  h6{
+    font-size: 16px;
+    padding: 2% 2%;
+    margin-left:-5px;
+    color: rgba(0, 0, 0, 0.803);
+}
+.footer1{
+    width: 20%;
+    height: 265px;
+    position: absolute;
+    bottom: 5%;
+    /* background-color: black; */
+    left:26%;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    padding: 12px;
+}
+.footer1  h1{
+    position: relative;
+    top: 0%;
+    color: black;
+}
+.footer1  h6{
+    font-size: 16px;
+    padding: 2% 2%;
+    margin-left:-5px;
+    color: rgba(0, 0, 0, 0.743);
+}
+.footer2{
+    width: 40%;
+    height: 265px;
+    position: absolute;
+    bottom: 5%;
+    /* background-color: black; */
+    left:46%;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    padding: 6px;
+}
+.footer2  h1{
+    position: relative;
+    top: 0%;
+    color: black;
+}
+.footer2  h6{
+    font-size: 16px;
+    padding: 2% 2%;
+    margin-left:-5px;
+    color: rgba(0, 0, 0, 0.743);
+}
+.footer3{
+    width: 25%;
+    height: 265px;
+    position: absolute;
+    bottom: 5%;
+    right: 1%;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    padding: 6px;
+}
